@@ -2,6 +2,7 @@
 {
     public class Descriptor
     {
+        public int DescriptorId { get; set; }
         public int AccesssionId { get; set; }
         public double FruitShape { get; set; }
         public double FruitLenght { get; set; }
